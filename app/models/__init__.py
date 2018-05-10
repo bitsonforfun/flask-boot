@@ -13,3 +13,6 @@ from blog import Post, Tag
 from seo import KeywordLevel, KeywordStatus, Keyword
 from config import Config
 from prices import Price
+from ticker import Ticker
+from history import History
+from currency import Currency
